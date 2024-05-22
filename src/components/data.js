@@ -1,0 +1,20 @@
+const data = [
+    { name: "jihan", state: true },
+    { name: "malak", state: false },
+    { name: "noor", state: false },
+    { name: "ruba", state: true },
+    { name: "asma", state: false },
+    { name: "ahmad", state: true },
+    { name: "layan", state: true },
+    { name: "malik", state: false },
+    { name: "shadia", state: true },
+    { name: "ameer", state: false },
+    { name: "omar", state: true },
+    { name: "sami", state: false },
+    { name: "huda", state: true },
+    { name: "rahaf", state: true },
+    { name: "ameera", state: false },
+    { name: "mohammad", state: true },
+    { name: "ali", state: true },
+];
+export {data};
